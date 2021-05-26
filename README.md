@@ -1,0 +1,1 @@
+## Small code snippets I do daily to test my knowledge and also practice jest testing framework :)
