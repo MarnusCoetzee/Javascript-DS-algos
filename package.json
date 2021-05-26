@@ -1,0 +1,11 @@
+{
+  "name": "javascriptalgos",
+  "version": "1.0.0",
+  "description": "Javascript Data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marnus Coetzee",
+  "license": "ISC"
+}
